@@ -1,4 +1,4 @@
-## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm MhankBarBar
+## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> IM DAVID
 <img align="center" height="auto" src="https://avatars.githubusercontent.com/u/55822959?s=460&u=98e06e04babbf38abadbcef21413060992a40d71&v=4"/>
 
 ___
@@ -17,7 +17,7 @@ ___
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#229](https://github.com/MhankBarBar/whatsapp-bot/pull/229) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+1. ❌ Closed PR [#229](https://github.com/DAVIDGNZ1/mentahan/pull/229) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
 2. ❌ Closed PR [#72](https://github.com/MhankBarBar/termux-wabot/pull/72) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
 3. ❌ Closed PR [#71](https://github.com/MhankBarBar/termux-wabot/pull/71) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
 4. ❗️ Closed issue [#66](https://github.com/MhankBarBar/termux-wabot/issues/66) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
